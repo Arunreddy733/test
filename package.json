@@ -1,0 +1,22 @@
+{
+  "name": "pratice-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "apollo-boost": "^0.4.9",
+    "cypress": "^12.17.1",
+    "cypress-graphql": "^0.0.1-security",
+    "graphql": "^15.8.0"
+  },
+  "dependencies": {
+    "aws-amplify": "^5.3.4",
+    "node-fetch": "^2.6.12"
+  }
+}
